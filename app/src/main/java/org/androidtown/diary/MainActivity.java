@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         startActivity(new Intent(this, SplashActivity.class));
     }
+
+    //Test
 }
