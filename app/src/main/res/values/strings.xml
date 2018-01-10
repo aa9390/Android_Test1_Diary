@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">목록</string>
+    <string name="title_dashboard">쓰기</string>
+    <string name="title_notifications">알림</string>
+    <string name="title_activity_main22">Main2Activity2</string>
+    <string name="title_activity_main23">Main23Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
